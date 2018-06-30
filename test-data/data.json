@@ -1,0 +1,13 @@
+ {
+        "fname": "Testuser",
+        "email": "kiosk-testuser12114@yopmail.com",
+        "password": "aaaaaa",
+        "number": "1111111111",
+        "city": "Delhi",
+        "qualification_0": "Graduation/Diploma",
+   "course_0": "B.Tech/B.E",
+   "spec_0": "Agriculture",
+   "institute_0": "Amity University",
+   "institute_0": "2016",
+   "keyskills": "Selenium"
+    }

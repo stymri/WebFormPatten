@@ -1,0 +1,20 @@
+ {
+    "EMAIL": "kiosk-test3006182@yopmail.com",
+    "PASSWORD": "123456",
+    "PASSWORD_CONFIRM": "123456",
+    "H_EDUCATION_TYPE": "Graduation / Bachelors Degree or Equivalent",
+    "MPHONE": "1111111111",
+    "INSTITUTE_VAL[]": "Vivekanand College of Law, Ahmedabad",
+    "COURSE[]": "BE / B.Tech",
+    "SPEC[]": "Aeronautical",
+    "EDU_COMPLETION_DT_MM[]": "Mar",
+    "EDU_COMPLETION_DT_YYYY[]": "2018",
+    "SCORE_TYPE[]": "Course Requires a Pass",
+    "SCORE[]": "Scale 4 Grading System",
+    "CNAME": "Random",
+    "BIRTH_DT_DD": "16",
+    "BIRTH_DT_MM": "Jan",
+    "BIRTH_DT_YYYY": "2002",
+    "CITY": "Delhi",
+    "HOMETOWN": "Delhi"
+    }
